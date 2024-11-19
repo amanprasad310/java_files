@@ -11,7 +11,7 @@
 // 2.What is the difference between ArrayList and LinkedList classes in collection framework?
 // 3.What is the difference between ArrayList and Vector classes in collection framework?
 // 4.What is the difference between Hashset and Hashmap?
-
+hehehehehe
 method of collection interface
 retainAll(Collection<?>c)
 size()
