@@ -1,0 +1,50 @@
+// Date :- 09-09-2024
+
+// Collection in java
+
+// nothing but interface and classess
+
+// interface where we declare but do not define
+
+// These are the things which we will be doing
+// 1.What are the two to iterate the elements of a collection?
+// 2.What is the difference between ArrayList and LinkedList classes in collection framework?
+// 3.What is the difference between ArrayList and Vector classes in collection framework?
+// 4.What is the difference between Hashset and Hashmap?
+
+method of collection interface
+retainAll(Collection<?>c)
+size()
+clear()
+contains(Object element)
+constainsAll(Collection<?>c)
+
+
+//iterator interface
+
+list , array (iterable)
+pivot (iterator)
+
+-hasNext()
+
+Object next()
+void remove()
+
+//iterable interface
+
+iterator<T> iterator()
+
+explanation for T:
+* generics
+
+//---------------------------------------------------------Practice question
+
+Vehicle Rental Service
+Problem: Create an interface Vehicle with a method rent(), Implement this interface for different types of vehicals like car, Bike and Truck.
+Write a program to allow user to rent different vehicles and calculate the cost of rental based on the type of vehicle.
+
+Requirements:
+*Define a Vehicle interface with a rent() method
+*Implement this interface for car, bike and Truck
+*include a system to calculate rental costs for each type of vehicle.
+
